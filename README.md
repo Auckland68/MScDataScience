@@ -3,5 +3,5 @@
 ## MSc Assessments: [Assessments](https://github.com/Auckland68/MScAssessments)
 MSc Data Science and Analytics Assessments including jupyter notebooks and reports
 
-## MSc Management Project: [Final Project](https://github.com/your-username/project-two)
+## MSc Management Project: [Final Project](https://github.com/Auckland68/Arun-Travel-Reviews-Analysis)
 MSc Data Science and Analytics Final Management Project
