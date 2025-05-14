@@ -1,7 +1,5 @@
 # MScDataScience
 
-MSc Final Project and Assessments
-
 ## MSc Assessments: [Assessments](https://github.com/your-username/project-one)
 MSc Data Science and Analytics Assessments including jupyter notebooks and reports
 
